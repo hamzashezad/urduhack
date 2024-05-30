@@ -1,5 +1,4 @@
 sentencepiece
-tf2crf
 Click
 regex
 absl-py
