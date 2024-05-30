@@ -1,6 +1,5 @@
 sentencepiece
 tf2crf
-tensorflow-datasets
 Click
 regex
 absl-py
